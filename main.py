@@ -9,3 +9,9 @@ with col1:
 
 with col2:
     st.write("""Thank you Universe I did it , I have changed the whole education system of India""")
+
+
+st.header('Policies')
+st.subheader('P1')
+st.subheader('No Exam')
+st.subheader('morals')
