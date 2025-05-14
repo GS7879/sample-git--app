@@ -21,3 +21,5 @@ st.sidebar.title('About')
 st.sidebar.subheader('Genius')
 st.sidebar.subheader('Morals')
 st.sidebar.subheader('Gyanendra')
+
+st.subheader('Cricket')
