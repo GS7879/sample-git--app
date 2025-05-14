@@ -15,3 +15,8 @@ st.header('Policies')
 st.subheader('P1')
 st.subheader('No Exam')
 st.subheader('morals')
+st.subheader('Gyanendra')
+
+st.sidebar.title('About')
+st.sidebar.subheader('Genius')
+st.sidebar.subheader('Morals')
